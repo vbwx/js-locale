@@ -1,5 +1,5 @@
 // Locale + Key JavaScript classes
-// Copyright (C) 2013 Bernhard Waldbrunner
+// Copyright (C) 2013 vbwx
 /*
  *	This program is free software: you can redistribute it and/or modify
  *	it under the terms of the GNU General Public License as published by
